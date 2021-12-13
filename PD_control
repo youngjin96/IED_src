@@ -33,7 +33,7 @@
 
 // PID parameters
 #define _KP 0.7 // proportional gain *****
-#define _KD 63
+#define _KD 40
 
 //////////////////////
 // global variables //
