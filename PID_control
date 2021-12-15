@@ -34,8 +34,8 @@
 // PID parameters
 #define _KP 0.7 // proportional gain *****
 #define _KD 40
-#define _KI 1.5
-#define _ITERM_MAX 4
+#define _KI 3
+#define _ITERM_MAX 5
 //////////////////////
 // global variables //
 //////////////////////
